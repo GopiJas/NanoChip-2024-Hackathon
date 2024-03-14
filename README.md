@@ -1,5 +1,5 @@
 <p align="center" style="font-size:30px">
-<img src="https://raw.githubusercontent.com/MatthiasSchinzel/sysmon/master/media/output.gif" align="center" />
+<img src="https://raw.githubusercontent.com/GopiJas/sysmon/master/media/output.gif" align="center" />
 </p>
 <p align="center" style="font-size:30px">
   <br>
@@ -7,16 +7,16 @@
   <br>
 </p>
 <p align="center">
-<a href="https://github.com/MatthiasSchinzel/CaRL/sysmon/commit-activity">
+<a href="https://github.com/GopiJas/CaRL/sysmon/commit-activity">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
 </a>
-<a href="https://github.com/MatthiasSchinzel/CaRL/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/MatthiasSchinzel/sysmon.svg">
+<a href="https://github.com/GopiJas/CaRL/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/GopiJas/sysmon.svg">
 </a>
-<a href="https://github.com/MatthiasSchinzel/sysmon/tags/">
-    <img src="https://img.shields.io/github/v/tag/MatthiasSchinzel/sysmon.svg?sort=semver">
+<a href="https://github.com/GopiJas/sysmon/tags/">
+    <img src="https://img.shields.io/github/v/tag/GopiJas/sysmon.svg?sort=semver">
 </a>
-<a href="https://github.com/MatthiasSchinzel">
+<a href="https://github.com/GopiJas">
     <img src="https://img.shields.io/badge/Need%20help%3F-Ask-27B89C">
 </a>
 </p>
@@ -25,14 +25,14 @@
   <a href="#getting-started">Getting Started</a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MatthiasSchinzel/sysmon/master/media/optimized.gif" align="center" />  
+<img src="https://raw.githubusercontent.com/GopiJas/sysmon/master/media/optimized.gif" align="center" />  
 <h2>
 Key features
 </h2>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-<img src="https://raw.githubusercontent.com/MatthiasSchinzel/sysmon/master/media/SysmonTwoadapter.png" align="right" width="40%" />
+<img src="https://raw.githubusercontent.com/GopiJas/sysmon/master/media/SysmonTwoadapter.png" align="right" width="40%" />
 
 Graphical visualization of the following data:
 
